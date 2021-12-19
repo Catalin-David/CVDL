@@ -1,2 +1,2 @@
 # CVDL
-Project for the 2021 class of CVDL
+Project for the CVDL 2021 class
